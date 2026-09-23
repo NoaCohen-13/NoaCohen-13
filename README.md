@@ -2,6 +2,8 @@
 
 I used to write for users - now I write for agents. I started as a UX Writer at Wix, shaping content for Premium monetization flows, and turned that same instinct for words toward prompting Claude Code and Cursor - taking features from research to shipped.
 
+Looking for product roles where I can keep building this way - AI-assisted, close to users, moving fast from idea to launch.
+
 Here are some recent projects:
 
 - 💍 [i-do-list](https://github.com/NoaCohen-13/i-do-list) - a full-stack wedding planner (Next.js, Postgres, Clerk) with live guest/budget sync
