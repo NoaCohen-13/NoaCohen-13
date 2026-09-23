@@ -2,7 +2,7 @@
 
 I used to write for users - now I write for agents. I started as a UX Writer at Wix, shaping content for Premium monetization flows, and turned that same instinct for words toward prompting Claude Code and Cursor - taking features from research to shipped.
 
-What I bring: translating user needs into working features, using AI as the build tool. Looking for roles that live at that intersection - product, prompt engineering, solutions engineering - wherever they land.
+What I bring: translating user needs into working features, using AI as the build tool. Looking for roles that live at that intersection, wherever they land.
 
 Here are some recent projects:
 
